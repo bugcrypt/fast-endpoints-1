@@ -14,9 +14,9 @@
 
     <ItemGroup>
         <PackageReference Include="Ardalis.GuardClauses" Version="5.0.0" />
-        <PackageReference Include="FastEndpoints" Version="8.0.0-beta.3" />
-        <PackageReference Include="FastEndpoints.Attributes" Version="8.0.0-beta.3" />
-        <PackageReference Include="FastEndpoints.Generator" Version="8.0.0-beta.3">
+        <PackageReference Include="FastEndpoints" Version="8.0.0-beta.4" />
+        <PackageReference Include="FastEndpoints.Attributes" Version="8.0.0-beta.4" />
+        <PackageReference Include="FastEndpoints.Generator" Version="8.0.0-beta.4">
           <PrivateAssets>all</PrivateAssets>
           <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
